@@ -1,0 +1,78 @@
+{
+  "results": [
+    {
+      "id": 1,
+      "name": "Randall Johnsson",
+      "type": "person",
+      "status": "active now"
+    },
+    {
+      "id": 2,
+      "name": "Random Michal Folder",
+      "type": "folder",
+      "category": "Photos/Assets",
+      "fileCount": 12,
+      "lastEdited": "12m ago"
+    },
+    {
+      "id": 3,
+      "name": "crative_file_frandkies.jpg",
+      "type": "file",
+      "category": "Photos/Assets",
+      "lastEdited": "12m ago"
+    },
+    {
+      "id": 4,
+      "name": "Kristinge Karand",
+      "type": "person",
+      "status": "active 2d ago"
+    },
+    {
+      "id": 5,
+      "name": "files_krande_michelle.avi",
+      "type": "file",
+      "category": "Videos",
+      "lastEdited": "12m ago"
+    },
+    {
+      "id": 6,
+      "name": "Caroline Dribsson",
+      "type": "person",
+      "status": "unactivated"
+    },
+    {
+      "id": 7,
+      "name": "Adam Cadribean",
+      "type": "person",
+      "status": "active 1w ago"
+    },
+    {
+      "id": 8,
+      "name": "final_dribbble_presentation.jpg",
+      "type": "file",
+      "category": "Presentations",
+      "lastEdited": "1w ago"
+    },
+    {
+      "id": 9,
+      "name": "Margareth Cendribbssen",
+      "type": "person",
+      "status": "active 1w ago"
+    },
+    {
+      "id": 10,
+      "name": "dribbble_animation.avi",
+      "type": "file",
+      "category": "Videos",
+      "lastEdited": "1y ago"
+    },
+    {
+      "id": 11,
+      "name": "Dribbble Folder",
+      "type": "folder",
+      "category": "Projects",
+      "fileCount": 12,
+      "lastEdited": "2m ago"
+    }
+  ]
+}

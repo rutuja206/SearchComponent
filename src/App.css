@@ -1,0 +1,13 @@
+html, body, #root {
+  height: 100%;          /* let the root stretch */
+  margin: 0;
+}
+
+.App {
+  min-height: 100vh;     /* full screen background */
+  display: flex;
+  justify-content: center;
+  align-items: flex-start; /* keep SearchWrapper at the top */
+  background-color: lightgrey;
+}
+
